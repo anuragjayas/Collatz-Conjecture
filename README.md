@@ -1,4 +1,4 @@
-This program is used to create a collatz conjecture.
+This program is used to create a collatz conjecture in a child process.
 
 To copy a file follow the instructions:
 1. "gcc collatz.c"
